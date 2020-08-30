@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb://golan-mongodb-on-azure:MRygwDMLP0RjofiPxVDlXJ5a7WVsGm8JSTu14fBzcInyq2uMh56DPmzOXIj8JUP7MqdihbAHpL13A0ixcLULRA==@golan-mongodb-on-azure.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@golan-mongodb-on-azure@"
+    }
+}
